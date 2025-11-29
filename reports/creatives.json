@@ -1,0 +1,67 @@
+[
+    {
+        "creative_id": "R1",
+        "original_message_context": "Doctors recommend breathable cotton \u2014 meet our women boyshorts.",
+        "original_ctr": "0.00%",
+        "new_message_concept": "Shift to high-urgency, benefit-focused messaging.",
+        "suggested_headlines": [
+            "Time's Running Out: Limited Stock Available!",
+            "Join Thousands: See Why Everyone is Loving This Product"
+        ],
+        "suggested_message_body": "Emphasize problem-solving and offer a limited-time incentive to boost clicks.",
+        "suggested_cta": "Claim Offer",
+        "reasoning": "Original Video was too descriptive; low CTR suggests the message lacked a strong hook."
+    },
+    {
+        "creative_id": "R2",
+        "original_message_context": "Seamless confidence for every day \u2014 new men boxers.",
+        "original_ctr": "0.00%",
+        "new_message_concept": "Shift to high-urgency, benefit-focused messaging.",
+        "suggested_headlines": [
+            "Time's Running Out: Limited Stock Available!",
+            "Join Thousands: See Why Everyone is Loving This Product"
+        ],
+        "suggested_message_body": "Emphasize problem-solving and offer a limited-time incentive to boost clicks.",
+        "suggested_cta": "Claim Offer",
+        "reasoning": "Original Carousel was too descriptive; low CTR suggests the message lacked a strong hook."
+    },
+    {
+        "creative_id": "R3",
+        "original_message_context": "Doctors recommend breathable microfiber \u2014 meet our women wire\u2011free bras.",
+        "original_ctr": "0.00%",
+        "new_message_concept": "Shift to high-urgency, benefit-focused messaging.",
+        "suggested_headlines": [
+            "Time's Running Out: Limited Stock Available!",
+            "Join Thousands: See Why Everyone is Loving This Product"
+        ],
+        "suggested_message_body": "Emphasize problem-solving and offer a limited-time incentive to boost clicks.",
+        "suggested_cta": "Claim Offer",
+        "reasoning": "Original Image was too descriptive; low CTR suggests the message lacked a strong hook."
+    },
+    {
+        "creative_id": "R4",
+        "original_message_context": "Push comfort, not wires \u2014 everyday men inner vests.",
+        "original_ctr": "0.00%",
+        "new_message_concept": "Shift to high-urgency, benefit-focused messaging.",
+        "suggested_headlines": [
+            "Time's Running Out: Limited Stock Available!",
+            "Join Thousands: See Why Everyone is Loving This Product"
+        ],
+        "suggested_message_body": "Emphasize problem-solving and offer a limited-time incentive to boost clicks.",
+        "suggested_cta": "Claim Offer",
+        "reasoning": "Original Video was too descriptive; low CTR suggests the message lacked a strong hook."
+    },
+    {
+        "creative_id": "R5",
+        "original_message_context": "Wire\u2011free ease, cloud\u2011soft cups \u2014 women bras that fits right.",
+        "original_ctr": "0.00%",
+        "new_message_concept": "Shift to high-urgency, benefit-focused messaging.",
+        "suggested_headlines": [
+            "Time's Running Out: Limited Stock Available!",
+            "Join Thousands: See Why Everyone is Loving This Product"
+        ],
+        "suggested_message_body": "Emphasize problem-solving and offer a limited-time incentive to boost clicks.",
+        "suggested_cta": "Claim Offer",
+        "reasoning": "Original Image was too descriptive; low CTR suggests the message lacked a strong hook."
+    }
+]

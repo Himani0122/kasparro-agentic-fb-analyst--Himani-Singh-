@@ -1,0 +1,10 @@
+[
+    {
+        "hypothesis_id": "H1",
+        "hypothesis": "The ROAS dropped primarily due to Audience Fatigue, evidenced by a steady 20% decline in CTR over the last 7 days.",
+        "driver": "Audience Fatigue / Creative Saturation",
+        "validation_status": "PARTIALLY_CONFIRMED",
+        "confidence_score": 0.7,
+        "quantitative_evidence": "Daily CTR declined slightly by 8.6%. This contributes to the drop but is not the sole factor."
+    }
+]

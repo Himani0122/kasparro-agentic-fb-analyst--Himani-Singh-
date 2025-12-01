@@ -24,4 +24,4 @@ JSON Schema for each recommended creative object:
 - `suggested_headlines`: List of Strings (3 new headline ideas)
 - `suggested_message_body`: String (A new core message/ad copy)
 - `suggested_cta`: String (A new Call To Action, e.g., "Learn More," "Shop Now," "Download")
-- `reasoning`: String (Brief explanation of why this creative direction was chosen)
+- `reasoning`: String (Brief explanation of why this creative direction was chosen).
